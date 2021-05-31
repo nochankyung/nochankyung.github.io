@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              '노찬경의 소개 블로그'
+bio:                '노찬경의 개인 Github.io 블로그'
+description:        "Front-End Developer를 꿈꾸는 노찬경입니다!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
