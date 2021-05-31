@@ -3,7 +3,6 @@ layout: post
 title:  "My first post in this blog!"
 date:   2021-05-31
 excerpt: "블로그에 올리는 첫 글!"
-project: true
 tag:
 - introduction
 comments: true
